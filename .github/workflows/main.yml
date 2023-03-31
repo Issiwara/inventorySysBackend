@@ -1,4 +1,4 @@
-name: Publish Docker Image to Docker Hub feature2
+name: Publish Docker Image to Docker Hub feature2 02
 
 on:
   push:
